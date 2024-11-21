@@ -1,0 +1,8 @@
+- 👋 Hi, I’m Sam! @SamTheSomebody aka @GameDevSam
+- 👀 I’m currently working in C# and Java game development
+- 🌱 I’m currently learning back-end web dev in Python, Go and Javascript
+- Neo-vim btw, Ubuntu too
+- 💞️ I’m looking to collaborate on Old School Runescape Runelite Plug-ins
+- 📫 How to reach me twitter dms
+- 😄 Pronouns: he/him
+- I've worked in gamified cyber-security training, directed a flower farm and am running a youtube channel.
